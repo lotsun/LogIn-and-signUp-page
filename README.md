@@ -1,1 +1,1 @@
-# LogIn-and-signUp-page
+# LogIn-and-SignUp-Page
